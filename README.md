@@ -1,8 +1,6 @@
-# React + Vite
+# Simple Grocery List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a react app to add food items to a grocery list to track what one may need at the grocery store. 
 
-Currently, two official plugins are available:
+There are plans to improve this app by adding the ability to store the grocery list in a database and have the ability to edit and delete items.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
